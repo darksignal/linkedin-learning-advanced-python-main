@@ -3,3 +3,4 @@
 https://www.linkedin.com/learning/advanced-python
 
 **Disclaimer**: It is not my intention to distribute these files. It is my intention to work through the exercises alongside the videos, documenting progress with Git.
+**Original from**: https://github.com/johannlilly/linkedin-learning-advanced-python/tree/main
